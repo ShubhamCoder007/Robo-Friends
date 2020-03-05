@@ -1,0 +1,20 @@
+ h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 10;
+    margin-right: 0;
+    font-weight: bold;
+    color: aquamarine;
+  } 
+
+  hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-style: inset;
+    border-width: 5px;
+  }
